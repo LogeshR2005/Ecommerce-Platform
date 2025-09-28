@@ -54,7 +54,7 @@ Make sure you have the following software installed on your machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/LogeshR2005/Ecommerce-Platform-SpringBoot-Java.git
+git clone https://github.com/LogeshR2005/Ecommerce-Platform.git
 
 # Navigate to the backend directory
 cd <Ecommerce-Platform-SpringBoot-Java>/backend-folder
